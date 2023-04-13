@@ -24,3 +24,5 @@ To view a list of all bugs in the system, select option 2 from the main menu. Yo
 
 This application was created as part of Software development intern at SYNC interns . 
 
+
+[![Watch video tutorial ](https://github.com/Mahmoud-UL/BugTracker_DesktopApp/blob/main/BugTracker.mp4)

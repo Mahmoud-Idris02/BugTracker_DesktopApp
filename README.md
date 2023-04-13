@@ -26,4 +26,8 @@ This application was created as part of Software development intern at SYNC inte
 
 
 
-##Samples
+## Samples
+<img  src = "https://github.com/Mahmoud-UL/BugTracker_DesktopApp/blob/main/Samples/B1.png?raw=true" width ="150">
+<img  src = "https://github.com/Mahmoud-UL/BugTracker_DesktopApp/blob/main/Samples/B2.png?raw=true" width ="150">
+<img  src = "https://github.com/Mahmoud-UL/BugTracker_DesktopApp/blob/main/Samples/B3.png?raw=true" width ="150">
+
